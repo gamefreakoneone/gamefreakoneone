@@ -103,15 +103,6 @@ Collaborative NLP research project. Built a retrieval-augmented language model s
 
 <img src="https://ghchart.rshah.org/409ba5/gamefreakoneone" alt="Contribution Calendar" width="100%"/>
 
----
-
-## Achievements
-
-[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/gamefreakoneone?achievement=pull-shark&tab=achievements)&nbsp;&nbsp;
-[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/gamefreakoneone?achievement=quickdraw&tab=achievements)&nbsp;&nbsp;
-[![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)](https://github.com/gamefreakoneone?achievement=arctic-code-vault-contributor&tab=achievements)
-
-**Pull Shark ×2** · **Quickdraw** · **Arctic Code Vault Contributor**
 
 ---
 
