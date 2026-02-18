@@ -56,16 +56,6 @@ I build AI systems where the model isn't a feature bolted on top — it's the co
 
 ---
 
-## Achievements
-
-[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/gamefreakoneone?achievement=pull-shark&tab=achievements)&nbsp;&nbsp;
-[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/gamefreakoneone?achievement=quickdraw&tab=achievements)&nbsp;&nbsp;
-[![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)](https://github.com/gamefreakoneone?achievement=arctic-code-vault-contributor&tab=achievements)
-
-**Pull Shark ×2** · **Quickdraw** · **Arctic Code Vault Contributor**
-
----
-
 > *"All of his choices were interesting and had a meaningful impact on the world. That was the lie Stanley told himself."*
 > — The Stanley Parable
 
