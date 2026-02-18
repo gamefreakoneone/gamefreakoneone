@@ -1,6 +1,6 @@
 # Amogh Biju
 
-**AI Engineer · Full-Stack Developer · California**
+**AI / ML Engineer · Research Engineer · California**
 
 [![Twitter](https://img.shields.io/badge/Twitter-@AmoghBiju-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AmoghBiju)
 [![GitHub](https://img.shields.io/badge/GitHub-gamefreakoneone-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gamefreakoneone)
@@ -95,14 +95,13 @@ Collaborative NLP research project. Built a retrieval-augmented language model s
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamefreakoneone&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamefreakoneone&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gamefreakoneone&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Activity" width="100%"/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamefreakoneone&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<img src="https://ghchart.rshah.org/409ba5/gamefreakoneone" alt="Contribution Calendar" width="100%"/>
 
 ---
 
@@ -116,7 +115,8 @@ Collaborative NLP research project. Built a retrieval-augmented language model s
 
 ---
 
-> *Technology should adapt to humans, not the other way around. I build AI systems that are safe, accessible, and genuinely useful — whether that's helping a child create their own game character, keeping seniors safe at home, or protecting families online.*
+> *"All of his choices were interesting and had a meaningful impact on the world. That was the lie Stanley told himself."*
+> — The Stanley Parable
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gamefreakoneone&color=0e75b6&style=flat-square" alt="Profile Views" />
